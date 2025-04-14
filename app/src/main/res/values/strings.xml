@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">애완동물 사진 보기</string>
+    <string name="text_q1">선택을 시작하시겠습니다</string>
+    <string name="check_start">시작함</string>
+    <string name="text_q2">좋아하는 애완동물은?</string>
+    <string name="radio_dog">강아지</string>
+    <string name="radio_kitty">고양이</string>
+    <string name="radio_ginipig">기니피그</string>
+    <string name="btn_done">선택 완료</string>
+</resources>
